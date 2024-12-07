@@ -2097,6 +2097,14 @@ module.exports = {
       token: "terra1xgvp6p0qml53reqdyxgcl8ttl0pkh0n2mtx2n7tzfahn6e0vca7s0g7sg6",
       icon: "https://www.erisprotocol.com/assets/ampLuna100.png",
       decimals: 6,
+    },
+    terra1xgvp6p0qml53reqdyxgcl8ttl0pkh0n2mtx2n7tzfahn6e0vca7s0g7sg6: {
+      protocol: "Historia Nova Token",
+      symbol: "HNT",
+      name: "Historia Nova Token",
+      token: "terra1gm4fzalxdhjt0hl398dhe9ln9ecj50m9dmr4x5558w59js02v9psqncdgd",
+      icon: "https://ridvan-kaya.imgbb.com/",
+      decimals: 6,
     }
   },
 };
